@@ -10,5 +10,10 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         //Comentario de prueba, para comprobar funcionamiento de GitHub
 
+
+    }
+
+    private fun onCreate(Test) {
+
     }
 }
